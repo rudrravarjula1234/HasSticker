@@ -1,1 +1,1 @@
-# HasSticker
+# HashSticker
